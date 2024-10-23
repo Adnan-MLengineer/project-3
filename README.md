@@ -1,4 +1,4 @@
-# project-3 # Sonar Detection Project
+# project-3  Sonar Detection Project
 In this project, i made an AI model which detects Sonar from a specific dataset.
 # **Key Features:-**
 **Algorithm used**: I used modules like pandas, numpy, matplotlib, seaborn, sklearn and xgboost
